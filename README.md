@@ -1,2 +1,2 @@
-# work-website
-website for work
+# personal-website
+personal website for portfolio
