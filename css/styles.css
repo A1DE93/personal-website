@@ -100,13 +100,13 @@ a:hover {
   bottom: 300px;
 }
 
-.codepic-img {
+.codepic {
   width: 25%;
   float: left;
   margin-right: 30px;
 }
 
-.codepictwo-img {
+.codepictwo {
   width: 25%;
   float: right;
   margin-left: 30px;
